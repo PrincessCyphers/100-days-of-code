@@ -1,30 +1,12 @@
 # 100 Days Of Code - Log
 
-### Day 0: February 30, 2016 (Example 1)
-##### (delete me or comment me out)
+### Day 0: October 29, 2021
+*Log* Started the challenge with a video tutorial on creating a simple TicTacToa game. Tutorial was just over 30mins, completed the task in just over 1.5hrs. great tutorial. 
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+** Link to work **
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+## Day 1: Nov 2, 2021
+*Log* Mised a few days due to the weekend. Will make up the missed hours. Followed video tutorial on how to make a click counting GUI. Starting to get more comfortable with constructors and Java classes. Introduced to Java Swing. 
 
-**Link to work:** [Calculator App](http://www.example.com)
+** Link to work ** 
 
-### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
-
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
-
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
-
-**Link(s) to work**: [Calculator App](http://www.example.com)
-
-
-### Day 1: June 27, Monday
-
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
-
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
-
-**Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
