@@ -1,12 +1,12 @@
 # 100 Days Of Code - Log
 
-### Day 0: October 29, 2021
-*Log* Started the challenge with a video tutorial on creating a simple TicTacToa game. Tutorial was just over 30mins, completed the task in just over 1.5hrs. great tutorial. 
+### Day 0: Nov 8, 2021
+*Log* Created my first Java GUI. It's a simple GUI with a "click here" link counting the number of clicks. I followed a tutorial inspired by Pirinceton's CS example lesson. Relatively easy to understand as long as i remeber the steps i.e. create a frame, create a button and panel within that has a label, add methods for each element. Starting to get more comfortable with constructors and classes. Introduced to Java Swing for the GUI.
 
 ** Link to work **
+www.github.com/PrincessMav/MyFirstGui.git 
 
-## Day 1: Nov 2, 2021
-*Log* Mised a few days due to the weekend. Will make up the missed hours. Followed video tutorial on how to make a click counting GUI. Starting to get more comfortable with constructors and Java classes. Introduced to Java Swing. 
-
+## Day 1: Nov 9, 2021
+*Log* 
 ** Link to work ** 
 
