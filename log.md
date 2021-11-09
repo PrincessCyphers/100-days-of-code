@@ -7,6 +7,8 @@
 www.github.com/PrincessMav/MyFirstGui.git 
 
 ## Day 1: Nov 9, 2021
-*Log* 
+*Log* A more complex build of the GUI, with the creation of a login GUI. It's making more sense, I'm more comfortable with the basic construction of a GUI. Building on this would include adding a redirect once the user logs in. Also, allowing for the creation of an acount, before trying to log in could be the next level up for a GUI. 
+
 ** Link to work ** 
+www.github.com/PrincessMav/LoginGUI.git 
 
