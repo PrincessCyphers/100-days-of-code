@@ -18,6 +18,11 @@ www.github.com/PrincessMav/LoginGUI.git
 **Link to work**
 www.github.com/PrincessMav/emailApp.git
 
+### Day 3: Nov 11, 2021
+*Switched it up slightly by buiding a student management system. I need to practice arrays more and using if statements as I always forget the () in the if. Good recap of arrays and their use, and nice to see how code can be kept relatively tidy using OOP. Starting to understand the basic principles and embed them.*
+
+**Link to work**
+www.github.com/PrincessMav/StudentDatabaseApp.git 
 
 
 
