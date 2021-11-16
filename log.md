@@ -25,4 +25,10 @@ www.github.com/PrincessMav/emailApp.git
 www.github.com/PrincessMav/StudentDatabaseApp.git 
 
 
+### Day 4: Nov 12, 2021
+*Created a simple banking app. i was following a video tutorial and was able to work ahead and use the video to check/ mark my work. Opted to have input from the user for the account name and added setCustomerID as additional elements for practive. I was introduced to JSeperator whilst looking for a shortcut for inserting break lines. Not suitable for this project, but has given ideas for next time. Switch statements need more practice just to get used to them. and more if statements.*
+
+**Link to work**
+www.github.com/PrincessCyphers/MyBank.git 
+
 
