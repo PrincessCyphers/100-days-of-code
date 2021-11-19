@@ -40,10 +40,22 @@ www.github.com/PrincessCyphers/MyBank.git
 
 
 
-### Day 5, 6, and 7: Nov 13 - 15, 2021
+### Day 5, 6, 7 and 8: Nov 13 - 16, 2021
 *I was behind on my #100DaysOfCode due to not coding over the weekend. I've made up by coding (productively) for approx 10hrs over 2days, which will be followed by some more intense hours and project work. I created a Coronavirus tracker app using springboot for the famework, customised with Thymeleaf and bootstrap CSS. This was an intro to Springboot, but its relatively easy to use. Will create a few more front and back emd products using it to get more confortable. Really enjoyed working with HTML in a different environment, and this may be my new and current prefered method for webpages. Will play more and see other limitations. Improvement on the app includes upgrading the desing and layout of page, and stating if changes from previous day are positive or negative. perhaps if statements?*
 
 **Link to work**
 www.github.com/PrincessCyphers/Coronavirus-Tracker.git
+
+
+
+### Day 9 & 10: Nov 17-18, 2021
+*Needed respite after the bootstrap 'bootcamp' and created a game once more- Brick Breaker. Got to use more and new event listeners, and introduced to graphics and paint methods. Also introduced to keyEvents. I want to create more with these. Compiler stopped responding part way, so not actully certain the game works, but I'm confident in the code.*
+
+**Link to work**
+www.github.com/PrincessCyphers/BrickBreaker.git
+
+
+
+
 
 
