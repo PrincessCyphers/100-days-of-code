@@ -55,6 +55,14 @@ www.github.com/PrincessCyphers/Coronavirus-Tracker.git
 www.github.com/PrincessCyphers/BrickBreaker.git
 
 
+### Day 11: NOv 19, 2021
+*I was up until 4am yesterday, so today wasnt spent physically coding. I took some tim eout and baked, and watched online tutorials and java videos. I also read up more on yesterday's new concepts of VK_Codes and keyEvents. 
+
+
+### Day 12: Nov 20, 2021
+*It was bothering me that I couldn't load the game, so much so that it featured in my sleep. I asked @shatokidnigel to download and play the game, and they reported a similar issue to what I'd experienced. I decided to inspect the code. I suspect changing the order in the main class so SetVisible was last masy have influnced it. Prev SertVisible was before panel construction was finalised. I also added else statements for the if condition in the ball-paddle intersect method. Game now functions as expected. Improving would be adding game instruction a the beginning, and possibly adding multiple layers. Option to save score would be added advantage. I've also seen an issue where once the ball is stuck in one particular loop, game can't be won, so adding catchers for that. Adding variety in the way the ball bounces back depending on hitting the corner of paddle for e.g
+
+
 
 
 
