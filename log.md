@@ -66,6 +66,26 @@ www.github.com/PrincessCyphers/BrickBreaker.git
 ### Day 25: Dec 6, 2021
 * I hadn't realised just how long ago I'd stopped updating the log. The most recent porject was intense, and had me stressed. I've now completed my first CRUD app using SpringBoot, H2 Hibernate db and Maven. The first few days of app creation were relatively smooth. I've also used the commits as mini log books to help understand what changes i was making and why. I got stuck on testing, as my tests kept failing. An angel in the form of @SolangeUG took the time to look at my code and correct it and gave me a working example. her work introduced me and led to a better understanding of Hibernate H2 db. I was also introduced to Project Lombok, which i will use going forwards. A lot of my issues are also attributed to the age of my machine, so I look forward to working on a newer and hopefully faster machine. I've finished the app, will ask a colleague to test it for me. further work will be adding more complexity, e.g. asking for login to change the password, asking for confirmation before deleting a user, and creating different level of access and permmissions to the app. I'll continue working with springboot until i'm more comfortable. 
 
+### Day 26: Dec 7, 2021
+*I receieved a book this week- Well Grounded Java Developer. I started reading this today, and this will be part of my 100 days of code. I've since found and joined LJC as a result- where I found the angel (Solange) is also a member. It makes sense, and I'm appreciative to be in the same spaces
+
+### Day 27: Dec 8, 2021
+*I continued to read the book. I also spent some time fixing my CV and applying for new roles. 
+
+### Day 28: Dec 9, 2021
+*Today was a Networking day. Coding Black Females & Black Devs UK had a joint networking session. I met oter techies, some of which redirected me to other new job opps. One of which was Code Girls First's (CFG) internship programme. I'll look into in and see if applicable. 
+
+### Day 29: Dec 10, 2021
+*I applied to more jobs. Data engineer, analysts, etc... on CFG's site, i found a couple of companies that were sponsoring in my area- Capgemini and OpenReach. I've applied to CapGemini's Insights & Data Consultant internship, with Openreach as my 2nd option. There's a coding challenge to complete as part of the application. I'll look at that in a few days. 
+
+### Day 30: Dec 13, 2021
+*I applied to more jobs. One specific one was for a Junior Developer, using C++. The recruiter responded relatively quickly and after a conversation he relyed that the client was looking for someone who had the C++ experience. He's kept my CV for future reference. 
+
+### Day 31 Dec: 14, 2021 
+*I applied to yet more jobs. I also completed CFG's Python Test for the internship. It was harder than anticipated. The email explained that the test shoud take about 30mins, and I tok nearly double the time. I found I was doubting myself more than I think i should have. It's reinstated in me that I need to revise other langs to a minimum level of understanding. I also watched a course on Figma and how to use it. 
+
+### Dec 32, 2021 
+*I'm using my new figma knowledge to design a site for get some shisha. I've drawn out the wireframe for the site. Moving onto figma to create the design and prototype. 
 
 
 
